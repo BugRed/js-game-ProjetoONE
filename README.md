@@ -1,0 +1,40 @@
+<h1 align="center"> JS GAME - Project One </h1>
+
+<p align="center">
+Jogo totalmente em JavaScript criado em curso online pela parceria entre ORACLE e ALURA, projeto ONE.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-certificado"> Certificado</a>
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## 💻 Projeto
+
+O Jogo tem como objetivo chutar o número aleatório entre 1 e 10 e poder acertar com menos tentativas,
+dentro do jogo a um contador de tentativas e um botão para novo jogo.
+
+## :heavy_check_mark: Certificado
+
+Certificado adquirido através do curso ONE parceria entre ORACLE e ALURA Acesse o [Certificado]([blank]).
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Yahto Dev :maple_leaf:
