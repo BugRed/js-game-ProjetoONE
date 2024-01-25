@@ -29,7 +29,7 @@ dentro do jogo a um contador de tentativas e um botão para novo jogo.
 
 ## :heavy_check_mark: Certificado
 
-Certificado adquirido através do curso ONE parceria entre ORACLE e ALURA Acesse o [Certificado]([https://cursos.alura.com.br/certificate/e5b90cba-eecc-46bc-bec0-8266ffaa2d37]).
+Certificado adquirido através do curso ONE parceria entre ORACLE e ALURA Acesse o [Certificado](https://cursos.alura.com.br/certificate/e5b90cba-eecc-46bc-bec0-8266ffaa2d37).
 
 ## :memo: Licença
 
